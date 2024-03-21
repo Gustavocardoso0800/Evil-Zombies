@@ -1,5 +1,5 @@
-O arquvio inicial do Evil Zombie's era .block, porém
-foi convertido para .sb3 para ser executavel em .html
+>> O arquvio inicial do Evil Zombie's era .block, porém
+foi convertido para .sb3 para ser executavel em .html <<
 
 
 Jogo Desenvolvido por uma equipe de alunos
