@@ -1,0 +1,13 @@
+O arquvio inicial do Evil Zombie's era .block, porém
+foi convertido para .sb3 para ser executavel em .html
+
+
+Jogo Desenvolvido por uma equipe de alunos
+da Escola Estadual de Ensino Médio Prof Gerson Peres!
+
+• Fabricio Gaia 
+• Gustavo Cardoso
+• Rafael Brito
+• Renato Fernandes
+
+Apoio: Prof Fábio Jorge Fabuloso
